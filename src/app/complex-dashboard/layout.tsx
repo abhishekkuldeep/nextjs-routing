@@ -8,7 +8,7 @@ export default function ComplexDashboardLayout({
     children: React.ReactNode;
     users: React.ReactNode;
     revenue: React.ReactNode;
-    notification: React.ReactNode;
+    notifications: React.ReactNode;
     login: React.ReactNode;
 }) {
 
